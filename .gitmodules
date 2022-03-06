@@ -1,0 +1,15 @@
+[submodule "labs"]
+	path = labs
+	url = git@github.com:CaptainNemo11/61c-labs.git
+[submodule "projects/proj1"]
+	path = projects/proj1
+	url = git@github.com:CaptainNemo11/61c-prj1
+[submodule "projects/proj2"]
+	path = projects/proj2
+	url = git@github.com:CaptainNemo11/61c-prj2
+[submodule "projects/proj3"]
+	path = projects/proj3
+	url = git@github.com:CaptainNemo11/61c-prj3
+[submodule "projects/proj4"]
+	path = projects/proj4
+	url = git@github.com:CaptainNemo11/61c-prj4
